@@ -1,0 +1,181 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.7.27)  27 JUL 2012 17:19
+entering extended mode
+ %&-line parsing enabled.
+**cv-sreejith-k.en.tex
+(./cv-sreejith-k.en.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\@input{cv-commands.aux}
+\openout2 = `cv-commands.aux'.
+
+(./cv-commands.tex (/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(./simplemargins.sty
+Simplemargins margin control commands <15 Mar 93>.
+\smpagewidth=\skip43
+\smpageheight=\skip44
+) (/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip45
+\LTright=\skip46
+\LTpre=\skip47
+\LTpost=\skip48
+\LTchunksize=\count87
+\LTcapwidth=\dimen105
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count88
+\LT@rows=\count89
+\c@LT@tables=\count90
+\c@LT@chunks=\count91
+\LT@p@ftn=\toks15
+))
+No file cv-sreejith-k.en.aux.
+\openout1 = `cv-sreejith-k.en.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+
+Overfull \hbox (9.43504pt too wide) in paragraph at lines 17--18
+[]  [] 
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+Overfull \hbox (7.21284pt too wide) in alignment at lines 21--27
+ [] [] 
+ []
+
+
+Overfull \hbox (7.21284pt too wide) in alignment at lines 31--54
+ [] [] 
+ []
+
+
+Overfull \hbox (7.21284pt too wide) in alignment at lines 58--66
+ [] [] 
+ []
+
+
+Overfull \hbox (7.21284pt too wide) in alignment at lines 70--87
+ [] [] 
+ []
+
+[1
+
+
+
+]
+Overfull \hbox (7.21284pt too wide) in alignment at lines 91--135
+ [] [] 
+ []
+
+[2]
+Overfull \hbox (7.21284pt too wide) in alignment at lines 139--150
+ [] [] 
+ []
+
+
+Overfull \hbox (7.21284pt too wide) in alignment at lines 154--165
+ [] [] 
+ []
+
+
+Overfull \hbox (7.21284pt too wide) in alignment at lines 169--180
+ [] [] 
+ []
+
+File: idea.eps Graphic file (type eps)
+<idea.eps>
+File: gnu.eps Graphic file (type eps)
+ <gnu.eps>
+File: hack.eps Graphic file (type eps)
+ <hack.eps>
+File: bike.eps Graphic file (type eps)
+ <bike.eps>
+Overfull \hbox (92.57112pt too wide) in paragraph at lines 184--191
+[] 
+ []
+
+[3] (./cv-sreejith-k.en.aux) ) 
+Here is how much of TeX's memory you used:
+ 926 strings out of 495062
+ 11874 string characters out of 1182644
+ 66551 words of memory out of 3000000
+ 4139 multiletter control sequences out of 15000+50000
+ 7924 words of font info for 28 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 29i,9n,21p,723b,278s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on cv-sreejith-k.en.dvi (3 pages, 10552 bytes).
